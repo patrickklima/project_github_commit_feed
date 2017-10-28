@@ -1,0 +1,23 @@
+{
+  "name": "workspace",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/patrickklima/project_github_commit_feed.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/patrickklima/project_github_commit_feed/issues"
+  },
+  "homepage": "https://github.com/patrickklima/project_github_commit_feed#readme",
+  "dependencies": {
+    "github": "^12.0.1"
+  }
+}
